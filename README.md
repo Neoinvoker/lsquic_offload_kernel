@@ -1,6 +1,6 @@
 At present, this project is just a prototype.
 
-We offloaded the TLS part of lsquic (IETF standard).
+We offloaded the TLS part of lsquic (IETF standard Short Header Only).
 
 This is just a feasibility test.
 
